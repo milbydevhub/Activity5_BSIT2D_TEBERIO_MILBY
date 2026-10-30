@@ -1,0 +1,33 @@
+Module 5: Stacks and Queues
+
+Project Description:
+This project demonstrates the implementation of stacks and queues using arrays and linked lists. It includes basic operations, error handling, and practical applications of these data structures.
+
+
+Project Files:
+- "array_stack.py" – Implements a stack using an array.
+- "linked_stack.py" – Implements a stack using a linked list.
+- "array_queue.py" – Implements a circular queue using an array.
+- "linked_queue.py" – Implements a queue using a linked list.
+- "test_driver.py" – Provides a menu-driven program for testing the implementations.
+- "analysis.md" – Contains the written analysis.
+- "sample_runs.md" – Shows sample program runs and error handling.
+
+Requirements:
+- Python 3
+- Visual Studio Code or any Python editor
+
+How to Run:
+1. Open the project folder in Visual Studio Code.
+2. Open the terminal.
+3. Run the test driver using: 
+   "py test_driver.py"
+4. Follow the menu instructions to test the stack and queue operations.
+
+
+Error Handling
+The program handles stack and queue underflow and overflow conditions.
+
+
+Author: Teberio, Milby R.
+Section: BSIT 2D

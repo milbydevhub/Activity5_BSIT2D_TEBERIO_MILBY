@@ -1,0 +1,2 @@
+Analysis
+The linked-list stack pushes at the head because inserting a new node at the head is faster and takes O(1) time. If we insert at the tail, it may take O(n) time. The array queue must be circular so that the empty spaces at the beginning of the array can be reused. This helps avoid wasting space and keeps enqueue and dequeue operations efficient.
